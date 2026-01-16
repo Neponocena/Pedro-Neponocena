@@ -1,14 +1,26 @@
- body
+body
         {
-            background-color: rgb(194, 194, 190);
         
+        background-image: linear-gradient(to right , rgb(255, 255, 255), rgb(61, 60, 60));
+
+        }
+        main
+        {
+            width: 700px;
+            padding: 10px;
         }
         h1
         {
-            text-align: justify;
+            
             color: rgb(37, 39, 39);
         }
         h2
         {
+            
             color: rgb(37, 39, 39);
         }
+        p
+        {
+            text-align:justify;
+        }
+        
